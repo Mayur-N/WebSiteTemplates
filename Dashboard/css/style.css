@@ -1,0 +1,49 @@
+/* body{
+    background-color: blueviolet;
+} */
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    /* background-color: blueviolet; */
+}
+.nav-sidebar{
+    margin: 70px -20px 20px 20px;
+  
+}
+
+.nav-sidebar >li >a{
+    padding: 20px 20px;
+    color: black;
+}
+
+.main{
+    margin-top:20px;
+    /* background-color: lightgray; */
+    padding: 20px;
+}
+
+.placeholders{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.placeholder{
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+.placeholder img{
+    display: inline;
+    border-radius:20%; 
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: green;
+    color: white;
+    text-align: center;
